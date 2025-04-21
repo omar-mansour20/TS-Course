@@ -1,0 +1,13 @@
+"use strict";
+const x = 10;
+const y = 50;
+const sum = x + y;
+// alert(sum);
+const num = 10;
+const str = "hello";
+const arrNum = [1, 2, 3, 4, 5];
+const arrStr = ["a", "b", "c", "d", "e"];
+const arr = [1, 2, 3, "sss", true];
+let v = 10;
+v = "hello";
+v = true;
